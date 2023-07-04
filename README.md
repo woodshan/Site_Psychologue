@@ -7,3 +7,5 @@
 - Rendre le site web conforme à la loi (mentions légales).
 - Implémentation de plugins de sécurité.
 - Ajoût du certificat SSL (<b>en attente</b>).
+
+http://www.psychologue-cannes-angelot.fr/
