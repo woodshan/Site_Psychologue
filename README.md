@@ -1,5 +1,9 @@
 # Refonte totale d'un site web d'une psychologue basée sur Cannes avec WordPress
 
+Technologies utlisées 🛠 : 
+- WordPress
+- Elementor 
+Procédure ⚙️ : 
 - Création du wireframe du site.
 - Création de la maquette graphique avec Figma.
 - Mise à jour de WordPress et supression des plugins inutiles.
