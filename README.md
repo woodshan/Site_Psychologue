@@ -3,6 +3,7 @@
 Technologies utlisées 🛠 : 
 - WordPress
 - Elementor 
+
 Procédure ⚙️ : 
 - Création du wireframe du site.
 - Création de la maquette graphique avec Figma.
